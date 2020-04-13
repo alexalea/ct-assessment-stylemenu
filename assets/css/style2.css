@@ -87,7 +87,12 @@ footer {
     - draw a 2px black border around the sections
 */
 
-#starters#desserts {
+#starters {
+
+    border: 2px solid black;
+}
+
+#desserts {
 
     border: 2px solid black;
 }
